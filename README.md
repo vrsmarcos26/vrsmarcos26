@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D70000&height=120&section=header&text=Marcos+Vinícius&fontColor=ffffff&fontSize=60"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/VekT9uG24PZPS/giphy.gif" alt="Red Code Rain" width="100%"/>
+</p>
 
 <div align="center">
   <a href="https://github.com/vrsmarcos26">
@@ -90,7 +92,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vrsmarcos26&show_icons=true&count_private=true&hide_border=true&title_color=D70000&icon_color=D70000&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de vrsmarcos26 no GitHub" /> 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsmarcos26&layout=compact&hide_border=true&title_color=D70000&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsmarcos26&layout=compact&hide_border=true&title_color=D70000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -167,4 +169,3 @@
   <a href="https://hackingclub.com.br/user/VRSs" target="_blank"><img src="https://img.shields.io/badge/HackingClub-10E51A?style=for-the-badge" alt="HackingClub"></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D70000&height=120&section=footer"/>
