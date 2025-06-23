@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/vrsmarcos26">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D70000&center=true&width=500&lines=Marcos+Vin%C3%ADcius+(vrsmarcos26);Cybersecurity+Professional;Full-Stack+Developer;CTF+Player" alt="Animação de Digitação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D70000&center=true&width=500&lines=Marcos+Vin%C3%ADcius;vrsmarcos26;Cybersecurity+Professional;Full-Stack+Developer;CTF+Player" alt="Animação de Digitação" />
   </a>
 </div>
 
