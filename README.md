@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/vrsmarcos26">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D70000&center=true&width=500&lines=Marcos+Vin%C3%ADcius;vrsmarcos26;Cybersecurity+Professional;Full-Stack+Developer;CTF+Player" alt="Animação de Digitação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D70000&center=true&width=500&lines=Marcos+Vin%C3%ADcius+(vrsmarcos26);Cybersecurity+Professional;Full-Stack+Developer;CTF+Player" alt="Animação de Digitação" />
   </a>
 </div>
 
@@ -33,48 +33,42 @@
 ---
 
 ### 🚀 Meu Arsenal Tecnológico
-
-<details align="center">
-  <summary>Clique para ver as tecnologias que eu utilizo</summary>
   
-  <br>
-
-  <p align="center">
-    Abaixo estão algumas das linguagens, ferramentas e tecnologias que utilizo no meu dia a dia para desenvolver projetos e caçar vulnerabilidades.
-  </p>
+<p align="center">
+  Abaixo estão algumas das linguagens, ferramentas e tecnologias que utilizo no meu dia a dia para desenvolver projetos e caçar vulnerabilidades.
+</p>
   
-  <table align="center">
-    <tr>
-      <td align="center" width="180">
-        <strong>Linguagens</strong><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      </td>
-      <td align="center" width="180">
-        <strong>Dev & Infra</strong><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      </td>
-      <td align="center" width="220">
-        <strong>Ferramentas de Cibersegurança</strong><br>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
-        <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-        <img src="https://img.shields.io/badge/Sqlmap-E44024?style=for-the-badge&logo=sqlmap&logoColor=white" alt="Sqlmap">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-        <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-      </td>
-    </tr>
-  </table>
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <strong>Linguagens</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td align="center" width="180">
+      <strong>Dev & Infra</strong><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    </td>
+    <td align="center" width="220">
+      <strong>Ferramentas de Cibersegurança</strong><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+      <img src="https://img.shields.io/badge/Sqlmap-E44024?style=for-the-badge&logo=sqlmap&logoColor=white" alt="Sqlmap">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,16 +119,13 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <details>
-        <summary><strong>Outros Projetos & Laboratórios</strong></summary>
-        <br>
-        <p>Estou sempre criando novos ambientes para estudo e prática:</p>
-        <ul>
-          <li><strong>Laboratórios de Vulnerabilidades:</strong> Ambientes para explorar falhas como XSS (DOM e Reflected), SQL Injection, e outras.</li>
-          <li><strong>Ferramentas Ofensivas (fins educativos):</strong> Desenvolvimento de PoCs (provas de conceito) como RATs, C2 e Keyloggers para entender seu funcionamento e como detectá-los.</li>
-          <li><strong>Projetos de Defesa:</strong> Scripts e pequenas aplicações como um antivírus baseado em assinaturas.</li>
-        </ul>
-      </details>
+      <strong>Outros Projetos & Laboratórios</strong>
+      <p>Estou sempre criando novos ambientes para estudo e prática:</p>
+      <ul>
+        <li><strong>Laboratórios de Vulnerabilidades:</strong> Ambientes para explorar falhas como XSS (DOM e Reflected), SQL Injection, e outras.</li>
+        <li><strong>Ferramentas Ofensivas (fins educativos):</strong> Desenvolvimento de PoCs (provas de conceito) como RATs, C2 e Keyloggers para entender seu funcionamento e como detectá-los.</li>
+        <li><strong>Projetos de Defesa:</strong> Scripts e pequenas aplicações como um antivírus baseado em assinaturas.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -162,17 +153,12 @@
 
 ### 🎮 Hobbies & Outras Plataformas
 
-<details align="center">
-  <summary>O que eu faço quando não estou na frente do terminal?</summary>
-  <br>
+<p align="center">
+  Nem só de código e vulnerabilidades vive um entusiasta de tecnologia. Você também pode me encontrar por aí:
+</p>
   
-  <p align="center">
-    Nem só de código e vulnerabilidades vive um entusiasta de tecnologia. Você também pode me encontrar por aí:
-  </p>
-  
-  <p align="center">
-    <a href="https://steamcommunity.com/id/vrsmarcos26" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-    <a href="https://app.hackthebox.com/profile/VRSs" target="_blank"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
-    <a href="https://tryhackme.com/p/VRSs" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://steamcommunity.com/id/vrsmarcos26" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://app.hackthebox.com/profile/VRSs" target="_blank"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+  <a href="https://tryhackme.com/p/VRSs" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+</p>
