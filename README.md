@@ -136,7 +136,7 @@
 
 ### 🎓 Experiência e Formação
 
-[<img align="left" height="70px" width="70px" alt="CFQ Logo" src="https://cfq.org.br/wp-content/uploads/2022/10/cropped-logo-cfq-novo.png"/>](https://cfq.org.br/)
+[<img align="left" height="70px" width="70px" alt="CFQ Logo" src="https://github.com/vrsmarcos26/vrsmarcos26/blob/main/assets/logoCFQ.jpg"/>](https://cfq.org.br/)
 
 **Estagiário de Tecnologia da Informação** \
 [**Conselho Federal de Química**](https://cfq.org.br/) • Estágio • Atualmente \
@@ -146,7 +146,7 @@
 <br/>
 <br/>
 
-[<img align="left" height="70px" width="70px" alt="CEUB Logo" src="https://www.ceub.br/wp-content/uploads/2024/02/cropped-logo-ceub-azul-1-192x192.png"/>](https://www.uniceub.br/)
+[<img align="left" height="70px" width="70px" alt="CEUB Logo" src="https://github.com/vrsmarcos26/vrsmarcos26/blob/main/assets/logoCEUB.jpg"/>](https://www.uniceub.br/)
 
 **Graduando em Ciência da Computação** \
 [**Centro Universitário de Brasília (CEUB)**](https://www.uniceub.br/) • Em andamento \
