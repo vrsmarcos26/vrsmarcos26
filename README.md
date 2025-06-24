@@ -164,8 +164,8 @@
 <p align="center">
   <a href="https://steamcommunity.com/id/vrsmarcos26" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   <a href="https://app.hackthebox.com/profile/1769652" target="_blank"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
-  <a href="https://tryhackme.com/p/VRSs" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://app.hackingclub.com/profile/user/19535" target="_blank"><img src="https://img.shields.io/badge/HackingClub-10E51A?style=for-the-badge" alt="HackingClub"></a>
+  <a href="https://tryhackme.com/p/VRSs" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-D70000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://app.hackingclub.com/profile/user/19535" target="_blank"><img src="https://img.shields.io/badge/HackingClub-582C83?style=for-the-badge" alt="HackingClub"></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D70000&height=120&section=footer"/>
