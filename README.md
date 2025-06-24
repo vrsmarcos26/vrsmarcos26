@@ -136,7 +136,7 @@
 
 ### 🎓 Experiência e Formação
 
-[<img align="left" height="70px" width="70px" alt="CFQ Logo" src="https://media.licdn.com/dms/image/C4D0BAQEWk-iF_xWJ8A/company-logo_200_200/0/1630640306173?e=2147483647&v=beta&t=xH3U7B_3bS_lXy4e4R3B_vA-j1qN_g-uB8L6o_o_cKk"/>](https://cfq.org.br/)
+[<img align="left" height="70px" width="70px" alt="CFQ Logo" src="https://cfq.org.br/wp-content/uploads/2022/10/cropped-logo-cfq-novo.png"/>](https://cfq.org.br/)
 
 **Estagiário de Tecnologia da Informação** \
 [**Conselho Federal de Química**](https://cfq.org.br/) • Estágio • Atualmente \
@@ -144,11 +144,12 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
-[<img align="left" height="70px" width="70px" alt="CEUB Logo" src="https://media.licdn.com/dms/image/C4D0BAQG4h9a-2K3b9Q/company-logo_200_200/0/1631319202868?e=2147483647&v=beta&t=H-Wl4gO9p_3Lw_j-o_H-g_bJ4n1Z3e_Z4p_J1g_Xw_Y"/>](https://www.ceub.br/)
+[<img align="left" height="70px" width="70px" alt="CEUB Logo" src="https://www.ceub.br/wp-content/uploads/2024/02/cropped-logo-ceub-azul-1-192x192.png"/>](https://www.uniceub.br/)
 
 **Graduando em Ciência da Computação** \
-[**Centro Universitário de Brasília (CEUB)**](https://www.ceub.br/) • Em andamento \
+[**Centro Universitário de Brasília (CEUB)**](https://www.uniceub.br/) • Em andamento \
 *Foco em algoritmos, estruturas de dados, engenharia de software e, claro, segurança da informação.*
 <br/>
 <br/>
