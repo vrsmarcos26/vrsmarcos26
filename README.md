@@ -6,7 +6,9 @@
   </a>
 </div>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vrsmarcos26&count_bg=%23D70000&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vrsmarcos26&count_bg=%23D70000&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitantes&edge_flat=false"/>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vrsmarcos26/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
